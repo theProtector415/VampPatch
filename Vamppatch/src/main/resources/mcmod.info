@@ -1,0 +1,13 @@
+[
+  {
+
+    "modid": "vamppatch",
+    "name": "VampPatch",
+    "description": "Forces Vampirism feeding to work (client animation + server blood) even if other mods block it.",
+    "version": "1.0",
+    "mcversion": "1.12.2",
+    "authorList": ["Skydtudios"],
+    "credits": "fix for Vampirism",
+    "dependencies": ["required-after:vampirism"]
+  }
+]
